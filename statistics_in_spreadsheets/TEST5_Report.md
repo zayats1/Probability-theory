@@ -37,6 +37,10 @@
   вибірки.
   
   ![](/home/bogdandev/.var/app/com.github.marktext.marktext/config/marktext/images/2023-04-07-21-26-47-image.png)
+  
+  мат сподівання
+  
+  ![](/home/bogdandev/.var/app/com.github.marktext.marktext/config/marktext/images/2023-04-10-12-01-29-image.png)
 
 ## Завдання №2 Оцінка параметрів розподілу
 
@@ -48,7 +52,6 @@
 
 а) Побудувати гістограму і полігон абсолютних і відносних частот.
 
-
 ![](/home/bogdandev/.var/app/com.github.marktext.marktext/config/marktext/images/2023-04-07-21-32-40-image.png)
 
 ***таблиця.***
@@ -59,7 +62,6 @@
 
 б) Знайти незміщені оцінки (математичне сподівання, дисперсію та середнє
 квадратичне відхилення).
-
 
 ![](/home/bogdandev/.var/app/com.github.marktext.marktext/config/marktext/images/2023-04-07-21-35-56-image.png)
 
